@@ -1,0 +1,49 @@
+
+body {
+    background-color:white;
+    margin:0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+.title {
+    display:block;
+    text-align: center;
+    
+    background-color:white;
+}
+
+h1 {
+    color: black;
+    
+}
+div.top {
+    padding:15px;
+}
+
+.box .top .date {float:right; margin:0;}
+div.top h2 {margin:0; font-size: 16x;}
+
+div.bottom {padding:15px;}
+
+section {
+    background-color: rgb(234 234 234);
+    padding:50px;
+   
+}
+
+img {
+    width:100%;
+}
+
+.box{
+    width:600px;
+    background-color: white;
+    margin:auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border: 5px solid #EDEEEE;
+    border-radius: 5px;
+    
+}
